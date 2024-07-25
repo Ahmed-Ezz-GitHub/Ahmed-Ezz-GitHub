@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hi there 👋, my name is Ahmed Ezz
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4D16AQF0EaCabAM_pQ/profile-displaybackgroundimage-shrink_350_1400/0/1711654627240?e=1727308800&v=beta&t=yRcXqE3qd7jJaB7ICAR3-zVID3R3IinjjyIz40JdsAM)
@@ -15,7 +14,8 @@ Skills:  HTML / CSS /bootstrap / JS/API/Git
 - ⚡ Fun fact: The more you know, the more you realize that your knowledge is like a drop in an ocean. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Ahmed-Ezz-M/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ahmed_ezz_m//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Ahmed-Ezz-M/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ahmed_ezz_m/)  
+
 
 
 
