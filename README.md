@@ -26,8 +26,6 @@ Skills:  HTML / CSS /bootstrap / JS/API/Git
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Ahmed-Ezz-GitHub/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Ahmed-Ezz-GitHub)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Ahmed-Ezz-GitHub)  
 
 
